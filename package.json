@@ -1,0 +1,15 @@
+{
+  "name": "meanTut",
+  "version": "0.0.0",
+  "description": "Mean stack basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dakota Hipp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.7.2",
+    "jade": "^1.5.0"
+  }
+}
